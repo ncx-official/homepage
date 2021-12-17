@@ -132,6 +132,7 @@ body {
       object-fit: cover;
       border: 3px solid;
       border-color: var(--text-decoration-color);
+      margin-left: 25px;
   }
 /* ---------------------- */
 
@@ -168,9 +169,15 @@ body {
     margin-bottom: 15px;
 }
 
+.skills_sub_header {
+    color: #6a737d;
+    margin-bottom: 5px;
+}
+
 .skills__text {
     color: var(--secondary-text-color);
     text-align: justify;
+    margin-bottom: 10px;
 }
 /* ---------------------- */
 
