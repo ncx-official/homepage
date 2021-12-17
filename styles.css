@@ -132,6 +132,7 @@ body {
       object-fit: cover;
       border: 3px solid;
       border-color: var(--text-decoration-color);
+      margin-left: 25px;
   }
 /* ---------------------- */
 
